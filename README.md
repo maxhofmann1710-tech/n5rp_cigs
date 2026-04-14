@@ -36,7 +36,11 @@ just at the end of the items.lua
 copy/paste!!!
 
 ----------------------------------------------------------------------
+
 [ox_inventory/data/items.lua] - Copy this code put it at the end !!!
+
+----------------------------------------------------------------------
+
 ['cigarette'] = {
     label = 'Cigarette',
     consume = 0, -- IMPORTANT: Must be 0 so we handle removal manually
