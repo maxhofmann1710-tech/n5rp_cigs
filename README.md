@@ -13,7 +13,10 @@ More Smoke.
 Nikotin Bar.
 Nikotin Overdose.
 --------------------------------------------------------------------
+
 its all server.sided this means everyone can see the same.
+
+----------------------------------------------------------------------
 
 FREE TO USE SCRIPT NO LICENSE REQUIRED.  !!!!!!!!!!!!!!!!!
 
@@ -30,6 +33,7 @@ IMPORTANT !!! : PLEASE ENSURE OX_LIB AND THIS SCRIPT LIKE THIS
 ensure Ox_Lib
 ensure n5rp_cigs
 
+----------------------------------------------------------------------
 
 and dont forget to put this line in your Ox_Inventory/data/items.lua
 just at the end of the items.lua
